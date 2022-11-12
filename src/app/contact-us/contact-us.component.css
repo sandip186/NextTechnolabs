@@ -1,0 +1,111 @@
+.innerbaner-sec .inner-banner-content {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    padding-top: 116px;
+    padding-bottom: 15px;
+    min-height: 450px;
+}
+.inner-banner-rowbx {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.inner-banner-left {
+    width: 40%;
+}
+.inner-banner-title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #383B50;
+    margin-bottom: 10px;
+}
+
+.contactpg-topsec {
+    padding: 60px 0 70px 0;
+    text-align: left;
+}
+.global-title {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #383B50;
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+}.location-list {
+    margin-top: 40px;
+    margin: 40px -37px 0 -37px;
+}.location-list .col-md-4 {
+    padding: 0 37px;
+    margin-top: 25px;
+    width: 50%;
+}.contact-subbx {
+    padding: 30px 27px 30px 30px;
+    background: #E6F3FF;
+    border-radius: 27px;
+    height: 100%;
+}.contact-country-nambx {
+    display: flex;
+    align-items: center;
+    margin-top: -17px;
+}.flag-icobx {
+    margin-left: -22px;
+}.contact-country-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #383B50;
+    margin-top: -7px;
+}.office-addbx {
+    display: flex;
+}.colouredline {
+    background: #42A4EB;
+    border-radius: 4px;
+    width: 6px;
+    margin-right: 16px;
+    min-width: 6px;
+    min-height: 128px;
+}.row.email-list {
+    padding-bottom: 50px;
+    border-bottom: 0px solid rgba(0,0,0,0.1);
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}.emailbx {
+    text-align: center;
+}.emailbx-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    color: #383B50;
+    margin-top: -17px;
+}
+
+.subtitles {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #383B50;
+    position: relative;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: block;
+}
